@@ -1,0 +1,18 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Build directory
+/public
+
+# General files
+.env.development
+.env.production
+.DS_Store
+firebase-debug.log
+
+# Visual Studio Code
+.vscode
+.vs/
+.next
