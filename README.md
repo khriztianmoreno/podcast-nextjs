@@ -8,6 +8,10 @@ In this repository we we’ll see just how quickly next.js makes the process of 
 
 Along the way we’ll learn about many of the amazing features Next.js provides for us out of the box, such as route prefetching and code-splitting, thus allowing us to spend more time developing and virtually no time setting up our environment.
 
+## Slides
+
+[Build a Server-rendered ReactJS Application with Next.js](https://slides.com/khriztianmoreno/build-a-server-rendered-reactjs-application-with-next-js/)
+
 ## How does it work?
 
 Requires Node.JS 10
