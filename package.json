@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "next": "^9.0.0",
     "next-routes": "^1.4.2",
     "nprogress": "^0.2.0",
